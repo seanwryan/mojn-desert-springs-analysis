@@ -1,0 +1,24 @@
+# Raw data
+data/
+
+# Cleaned intermediate data
+output/cleaned/
+
+# Python cache / virtual envs
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Logs, SQLite, etc.
+*.log
+*.sqlite
+
+# IDE/editor
+.vscode/
+.idea/
